@@ -1,4 +1,4 @@
 public class Test {
     
-    int NTests;
+    int NTests = 1;
 }
